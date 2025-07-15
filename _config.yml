@@ -277,12 +277,12 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # _talks
+  # _book summary
   - scope:
       path: ""
-      type: talks
+      type: book summary
     values:
-      layout: talk
+      layout: book summary
       author_profile: true
       share: true
 
